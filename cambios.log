@@ -1,0 +1,43 @@
+[2023-03-13 20:07:50] [ INFO ] [PacienteDAOH2:102] Iniciando la busqueda de un paciente por email: mateo@digitalhouse.com
+[2023-03-13 20:07:51] [ INFO ] [DomicilioDAOH2:52] Iniciando una operación de buscar por id a un domicilio
+[2023-03-13 20:09:52] [ INFO ] [PacienteDAOH2:102] Iniciando la busqueda de un paciente por email: mateo@digitalhouse.com
+[2023-03-13 20:09:52] [ INFO ] [DomicilioDAOH2:52] Iniciando una operación de buscar por id a un domicilio
+[2023-03-15 22:43:40] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-15 22:43:40] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-15 22:44:27] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-15 22:44:27] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-15 22:47:13] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: null
+[2023-03-15 22:50:19] [ INFO ] [OdontologoDAOH2:20] inicializando la operación de guardado un odontologo: Nicolas
+[2023-03-15 22:53:16] [ INFO ] [OdontologoDAOH2:20] inicializando la operación de guardado un odontologo: ahuas
+[2023-03-15 22:58:09] [ INFO ] [OdontologoDAOH2:126] iniciando la busqueda de todos los odontologos de la base de datos
+[2023-03-15 22:59:28] [ INFO ] [OdontologoDAOH2:20] inicializando la operación de guardado un odontologo: ahuas
+[2023-03-15 23:00:32] [ INFO ] [OdontologoDAOH2:20] inicializando la operación de guardado un odontologo: ahuas
+[2023-03-15 23:00:45] [ INFO ] [OdontologoDAOH2:126] iniciando la busqueda de todos los odontologos de la base de datos
+[2023-03-20 20:40:42] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-20 20:40:42] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-20 20:41:27] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-20 20:41:27] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-20 20:41:46] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 2
+[2023-03-20 20:42:01] [ INFO ] [OdontologoDAOH2:126] iniciando la busqueda de todos los odontologos de la base de datos
+[2023-03-20 20:42:51] [ INFO ] [OdontologoDAOH2:20] inicializando la operación de guardado un odontologo: ahuas
+[2023-03-20 20:43:05] [ INFO ] [OdontologoDAOH2:20] inicializando la operación de guardado un odontologo: ahuas
+[2023-03-20 20:43:22] [ INFO ] [OdontologoDAOH2:126] iniciando la busqueda de todos los odontologos de la base de datos
+[2023-03-20 20:46:56] [ INFO ] [OdontologoDAOH2:126] iniciando la busqueda de todos los odontologos de la base de datos
+[2023-03-20 20:47:58] [ INFO ] [OdontologoDAOH2:126] iniciando la busqueda de todos los odontologos de la base de datos
+[2023-03-20 20:48:46] [ INFO ] [OdontologoDAOH2:126] iniciando la busqueda de todos los odontologos de la base de datos
+[2023-03-20 20:49:19] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 3
+[2023-03-20 20:49:19] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 3
+[2023-03-20 20:50:13] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-20 20:50:13] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-20 20:50:19] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 2
+[2023-03-20 20:50:19] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 2
+[2023-03-20 20:50:28] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-20 20:50:28] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-20 20:50:31] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 2
+[2023-03-20 20:50:31] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 2
+[2023-03-20 20:50:33] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 3
+[2023-03-20 20:50:33] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 3
+[2023-03-20 20:50:38] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 2
+[2023-03-20 20:50:38] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 2
+[2023-03-20 20:51:36] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 2
+[2023-03-20 20:51:36] [ WARN ] [OdontologoDAOH2:103] inicializando la operación de eliminar un odontologo: 2
